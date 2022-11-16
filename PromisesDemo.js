@@ -16,7 +16,7 @@ let countValue = new Promise(function (resolve, reject) {
 countValue.then(
     function successValue(result) {
         console.log(result);
-    },
+    }
 )
     // executes if there is an error
     .catch(
