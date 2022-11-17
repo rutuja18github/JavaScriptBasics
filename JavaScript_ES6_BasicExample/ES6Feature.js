@@ -30,7 +30,7 @@ const numbers = [23,55,21,87,56];
 let maxValue = Math.max(...numbers);
 console.log(maxValue);
 
-//The For/Of Loop-Looping over an Array
+/*/The For/Of Loop-Looping over an Array
 const cars = ["BMW", "Volvo", "Mini"];
 let text = "";
 for (let x of cars) {
@@ -41,7 +41,7 @@ for (let x of cars) {
 let text = "JavaScript";
 for (let letter of text) {
     console.log(letter);
-}
+}*/
 
 //createMap
 const fruits = new Map([            
